@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 ########### Define your variables ######
 
 myheading = "Rainy Days in 2019"
-mytitle = "It rains a lot"
+mytitle = "Nashville, Washington DC and San Francisco Rain A Lot"
 x_values = ['Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'August']
 y1_values = [10, 9, 11, 10, 11, 11]
 y2_values = [11, 10, 10, 7, 5, 2]
